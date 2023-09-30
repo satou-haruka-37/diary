@@ -1,5 +1,5 @@
-<link rel="shortcut icon" type="image/png" 
-      href="{{ "/assets/images/favicon.png"  | absolute_url }}">
+<link rel="shortcut icon" type="image/png"
+      href="{{ "/assets/images/favicon.ico"  | absolute_url }}">
 
 # Diary
 
