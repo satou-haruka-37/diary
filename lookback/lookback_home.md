@@ -1,2 +1,2 @@
-- [RUNTEQ3ヶ月間の振り返り](/lookback/lookback_runteq/runteq04_06.md)
-- [RUNTEQ4〜7ヶ月目の振り返り](/lookback/lookback_runteq/07_10.md)
+- [RUNTEQ3ヶ月間の振り返り](diary/lookback/lookback_runteq/runteq04_06.md)
+- [RUNTEQ4〜7ヶ月目の振り返り](diary/lookback/lookback_runteq/07_10.md)
