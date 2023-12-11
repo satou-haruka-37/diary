@@ -9,5 +9,5 @@
 - [Twitter（X）](https://twitter.com/lemonade_37)
 
 ## 振り返り
-- [RUNTEQ3ヶ月間の振り返り](/lookback/lookback_2023_04_06.md)
-- [RUNTEQ4〜7ヶ月目の振り返り](/lookback/lookback_2023_07_10.md)
+- [RUNTEQ3ヶ月間の振り返り](/lookback/lookback_2023_07_05.md)
+- [RUNTEQ4〜8ヶ月目の振り返り](/lookback/lookback_2023_12_11.md)
